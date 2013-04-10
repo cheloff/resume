@@ -1,0 +1,25 @@
+% Fix margins so they don't suck balls
+\usepackage[top=.5in, bottom=.5in, left=.75in, right=.75in]{geometry}
+
+% Let's use a Helvetica for the entire document
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Light grey for font color
+\usepackage{xcolor}
+\color{black!70}
+
+% Link color will be red
+\usepackage{hyperref}
+\hypersetup{
+	urlcolor=red,
+	colorlinks=red,
+	citecolor=red,
+	colorlinks=true
+}
+
+% Change the default bullet point to a triangle
+\renewcommand{\labelitemi}{$\blacksquare$}
+
+% No page numbers
+\pagenumbering{gobble}
