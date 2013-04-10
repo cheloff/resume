@@ -21,5 +21,26 @@
 % Change the default bullet point to a triangle
 \renewcommand{\labelitemi}{$\blacksquare$}
 
+% Style headers with titlesec
+\usepackage{titlesec}
+
+% h1
+\titleformat*{\section}{\Huge\bfseries\color{red}}
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+
+% h2
+\titleformat*{\subsection}{\huge\bfseries}
+\titlespacing*{\subsection}{0pt}{0pt}{10pt}
+
+% h3
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+
+%h4
+\titlespacing*{\paragraph}{0pt}{10pt}{0pt}
+
+% h5
+\titleformat*{\subparagraph}{\small}
+\titlespacing*{\subparagraph}{0pt}{0pt}{0pt}
+
 % No page numbers
 \pagenumbering{gobble}
