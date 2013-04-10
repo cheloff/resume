@@ -6,6 +6,7 @@
 #### [Kent State University](http://www.kent.edu) ^(Aug.\ 2010\ &mdash;\ May\ 2014)^
 ##### Bachelor's of Science in Computer Science
 
+* Relevant coursework: Computer Science I-II, Discrete Structures, Computer Architecture, Calculus I
 * 2.7 GPA
 
 ### Work

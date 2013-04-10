@@ -18,7 +18,10 @@
 	colorlinks=true
 }
 
-% Change the default bullet point to a triangle
+% Make list spacing a little nicer
+\setlength{\itemsep}{0pt}
+
+% Change the default bullet point to a square
 \renewcommand{\labelitemi}{$\blacksquare$}
 
 % Style headers with titlesec
@@ -33,10 +36,11 @@
 \titlespacing*{\subsection}{0pt}{0pt}{10pt}
 
 % h3
-\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\titleformat*{\subsubsection}{\large\bfseries}
+\titlespacing*{\subsubsection}{0pt}{15pt}{0pt}
 
 %h4
-\titlespacing*{\paragraph}{0pt}{10pt}{0pt}
+\titlespacing*{\paragraph}{0pt}{5pt}{0pt}
 
 % h5
 \titleformat*{\subparagraph}{\small}
