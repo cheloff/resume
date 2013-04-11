@@ -1,3 +1,6 @@
+% Eli Gundry's Resume
+% Eli Gundry
+
 # Eli Gundry
 ## Full stack web developer with a love of standards
 
@@ -36,7 +39,7 @@
 
 ### Skills
 
-* Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets"), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * Built web applications using [Ruby on Rails](http://rubyonrails.org/), [Zend Framework](http://framework.zend.com/), [Symfony](http://symfony.com/), & [Yii](http://www.yiiframework.com/)
 * Most comfortable using [jQuery](http://jquery.com), [LESS](http://lesscss.org), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
 
@@ -47,3 +50,4 @@
 
 ### Interests
 
+* Loves playing tennis and running
