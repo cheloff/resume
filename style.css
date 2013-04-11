@@ -1,3 +1,81 @@
-* {
+body {
+	color: #444;
 	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin: 0 auto;
+	width: 60%;
+}
+
+h1, a, th {
+	color: red;
+}
+
+h1 {
+	font-size: 3em;
+	margin: .3em 0 0 0;
+}
+
+h2 {
+	font-size: 2em;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 1.6em;
+	margin-bottom: .3em
+}
+
+h4 {
+	font-size: 1.25em;
+	margin: 0 0 .5em;
+}
+
+h4 sup {
+	font-size: .7em;
+}
+
+h5 {
+	font-size: 1em;
+	font-weight: normal;
+	margin: 0 0 .5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+	outline: 0;
+	text-decoration: underline;
+}
+
+ul {
+	margin-top: 0;
+}
+
+ul li {
+	list-style: square;
+}
+
+.contact {
+	margin-bottom: 30px;
+	width: 100%;
+}
+
+.contact th,
+.contact td {
+	width: 25%;
+}
+
+.contact th {
+	text-align: left;
+}
+
+.contact td {
+	vertical-align: top;
+}
+
+.contact td a {
+	display: block;
 }

@@ -1,5 +1,5 @@
 % Fix margins so they don't suck balls
-\usepackage[top=.5in, bottom=.5in, left=.75in, right=.75in]{geometry}
+\usepackage[top=.5in, bottom=.25in, left=.75in, right=.75in]{geometry}
 
 % Let's use a Helvetica for the entire document
 \usepackage{helvet}
@@ -21,8 +21,20 @@
 % Make list spacing a little nicer
 \setlength{\itemsep}{0pt}
 
+% Make list font size smaller
+\usepackage{relsize}
+\let\olditemize\itemize
+\let\oldenditemize\enditemize
+\renewenvironment{itemize}{%
+	\smaller
+	\olditemize
+}{\oldenditemize}
+
 % Change the default bullet point to a square
-\renewcommand{\labelitemi}{$\blacksquare$}
+\renewcommand{\labelitemi}{\tiny$\blacksquare$}
+
+% Tabularx for awesome tables
+\usepackage{tabularx}
 
 % Style headers with titlesec
 \usepackage{titlesec}
@@ -39,7 +51,7 @@
 \titleformat*{\subsubsection}{\large\bfseries}
 \titlespacing*{\subsubsection}{0pt}{15pt}{0pt}
 
-%h4
+% h4
 \titlespacing*{\paragraph}{0pt}{5pt}{0pt}
 
 % h5

@@ -26,7 +26,7 @@
 ##### Web Developer
 
 * Used PHP with the Zend Framework to work on [Prooflab](https://prooflab.us/), Go Media's project management software
-* Created the [Weapons of Mass Creation 2012](http://2012.wmcfest.com) using Wordpress
+* Created the [Weapons of Mass Creation 2012](http://2012.wmcfest.com) using [Wordpress](http://wordpress.org)
 
 #### [Great Lakes Publishing](http://www.glpublishing.com/ME2/Default.asp) ^(Sep.\ 2010\ &mdash;\ May\ 2011)^
 ##### Web Development Intern
@@ -38,9 +38,12 @@
 
 * Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * Built web applications using [Ruby on Rails](http://rubyonrails.org/), [Zend Framework](http://framework.zend.com/), [Symfony](http://symfony.com/), & [Yii](http://www.yiiframework.com/)
-* Most comfortable using [jQuery](http://jquery.com), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
+* Most comfortable using [jQuery](http://jquery.com), [LESS](http://lesscss.org), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
+
+### Activities
+
+* Active member of [HacKSU](http://hacksu.cs.kent.edu/), Kent State's web development community
+* Earned the rank of [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America\)) in 2006 and loves to camp
 
 ### Interests
 
-* Active member of [HacKSU](http://hacksu.cs.kent.edu/), Kent State's web development community
-* Earned the rank of [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America) in 2006 and loves to camp
