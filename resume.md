@@ -28,8 +28,8 @@
 #### [Go Media](http://gomedia.us) ^(May\ 2011\ &mdash;\ Jun.\ 2012)^
 ##### Web Developer
 
-* Used PHP with the Zend Framework to work on [Prooflab](https://prooflab.us/), Go Media's project management software
-* Created the [Weapons of Mass Creation 2012](http://2012.wmcfest.com) using [Wordpress](http://wordpress.org)
+* Used PHP with the Zend Framework to work on [Prooflab](https://prooflab.us/), [Go Media's](http://gomedia.us) project management software
+* Created the [Weapons of Mass Creation Festival 2012](http://2012.wmcfest.com) website using [Wordpress](http://wordpress.org)
 
 #### [Great Lakes Publishing](http://www.glpublishing.com/ME2/Default.asp) ^(Sep.\ 2010\ &mdash;\ May\ 2011)^
 ##### Web Development Intern
@@ -41,7 +41,7 @@
 
 * Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets"), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * Built web applications using [Ruby on Rails](http://rubyonrails.org/), [Zend Framework](http://framework.zend.com/), [Symfony](http://symfony.com/), & [Yii](http://www.yiiframework.com/)
-* Most comfortable using [jQuery](http://jquery.com), [LESS](http://lesscss.org), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
+* Most comfortable using [jQuery](http://jquery.com), [Twitter Bootstrap](http://twitter.github.io/), [LESS](http://lesscss.org), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
 
 ### Activities
 

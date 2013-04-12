@@ -1,6 +1,11 @@
 PANDOC = pandoc -o
-HTML_OPTS = -c style.css -A footer.html -t html5 -s --template resume.html5
-TEX_OPTS = -H header.tex -A footer.tex --template resume.latex
+
+TEMPLATE = --template templates/resume
+FOOTER = -A partials/footer
+STYLE = styles/style
+
+HTML_OPTS = -c $(STYLE).css $(FOOTER).html -t html5 -s $(TEMPLATE).html5
+TEX_OPTS = -H $(STYLE).tex $(FOOTER).tex --template templates/resume.latex
 
 pdf:
 	$(PANDOC) resume.pdf $(TEX_OPTS) resume.md
