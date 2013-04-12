@@ -1,21 +1,25 @@
 PANDOC = pandoc -o
 
+SOURCE = resume.md
+TARGET = resume
 TEMPLATE = --template templates/resume
 FOOTER = -A partials/footer
 STYLE = styles/style
 
 HTML_OPTS = -c $(STYLE).css $(FOOTER).html -t html5 -s $(TEMPLATE).html5
-TEX_OPTS = -H $(STYLE).tex $(FOOTER).tex --template templates/resume.latex
+TEX_OPTS = -H $(STYLE).tex $(FOOTER).tex $(TEMPLATE).latex
+
+all: pdf latex html
 
 pdf:
-	$(PANDOC) resume.pdf $(TEX_OPTS) resume.md
+	$(PANDOC) $(TARGET).pdf $(TEX_OPTS) $(SOURCE)
 
 latex:
-	$(PANDOC) resume.tex $(TEX_OPTS) resume.md
+	$(PANDOC) $(TARGET).tex $(TEX_OPTS) $(SOURCE)
 
 html:
-	$(PANDOC) resume.html $(HTML_OPTS) resume.md
+	$(PANDOC) $(TARGET).html $(HTML_OPTS) $(SOURCE)
 
 clean:
-	rm -f resume.html resume.pdf resume.tex
+	rm -f $(TARGET).html $(TARGET).pdf $(TARGET).tex
 

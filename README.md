@@ -12,6 +12,12 @@ and styled for PDF using LaTeX.
 
 ## Usage
 
+To compile to all targets:
+
+```bash
+$ make all
+```
+
 To compile a PDF:
 
 ```bash
