@@ -14,18 +14,18 @@ and styled for PDF using LaTeX.
 
 To compile a PDF:
 
-```shell
+```bash
 $ make pdf
 ```
 
 To compile to LaTeX:
 
-```shell
+```bash
 $ make latex
 ```
 
 To compile to a standalone HTML document:
 
-```shell
+```bash
 $ make html
 ```
