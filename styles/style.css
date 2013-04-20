@@ -46,8 +46,8 @@ a {
 
 a:hover,
 a:focus {
+	border-bottom: 1px red solid;
 	outline: 0;
-	text-decoration: underline;
 }
 
 ul {

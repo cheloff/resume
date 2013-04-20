@@ -14,15 +14,15 @@
 
 ### Work
 
-#### [Z-Prototype](http://z-prototype.com) ^(Jan.\ 2013\ &mdash;\ Present)^
-##### Web Developer
+#### [Remesh](http://reme.sh) ^(Feb.\ 2013\ &mdash;\ Present)^
+##### Chief Technological Officer
 
-* Used [Ruby on Rails](http://rubyonrails.org/) to create dynamic web applications
+* Using [Python](http://python.org) with [Django](http://djangoproject.com) to develop a web application that uses a genetic algorithm to determine public opinion
 
 #### [Mindbox Studios](http://mindboxstudios.com) ^(Aug.\ 2012\ &mdash;\ Jan.\ 2013)^
 ##### Web Developer
 
-* Used [PHP](http://php.net) with [Yii Framework](http://www.yiiframework.com/) to develop web applications and [RESTful APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
+* Used [PHP](http://php.net "PHP: Hypertext Preprocessor") with [Yii Framework](http://www.yiiframework.com/) to develop web applications and [RESTful APIs](https://en.wikipedia.org/wiki/Representational_state_transfer)
 * Worked in a remote environment using agile development practices using [RedMine](http://www.redmine.org/)
 
 #### [Go Media](http://gomedia.us) ^(May\ 2011\ &mdash;\ Jun.\ 2012)^
@@ -39,8 +39,8 @@
 
 ### Skills
 
-* Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets"), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-* Built web applications using [Ruby on Rails](http://rubyonrails.org/), [Zend Framework](http://framework.zend.com/), [Symfony](http://symfony.com/), & [Yii](http://www.yiiframework.com/)
+* Develops using [Ruby](http://www.ruby-lang.org/en/), [Python](http://www.python.org/), [JavaScript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://php.net "PHP: Hypertext Preprocessor"), [Wordpress](http://wordpress.org), [HTML5](http://en.wikipedia.org/wiki/HTML5" "HyperText Markup Language"), [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Cascading Style Sheets"), & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* Built web applications using [Ruby on Rails](http://rubyonrails.org/), [Django](http://djangoproject.com), [Zend](http://framework.zend.com/), [Symfony](http://symfony.com/), & [Yii](http://www.yiiframework.com/)
 * Most comfortable using [jQuery](http://jquery.com), [Twitter Bootstrap](http://twitter.github.io/), [LESS](http://lesscss.org), [Vim](http://www.vim.org), & [Git](http://git-scm.com)
 
 ### Activities
@@ -50,4 +50,5 @@
 
 ### Interests
 
+* I spend much of my day tweaking my development workflow and reading about the latest coding practices
 * Loves playing tennis and running
