@@ -17,7 +17,12 @@
 #### [Remesh](http://reme.sh) ^(Feb.\ 2013\ &mdash;\ Present)^
 ##### Chief Technological Officer
 
-* Using [Python](http://python.org) with [Django](http://djangoproject.com) to develop a web application that uses a genetic algorithm to determine public opinion
+* Using [Python](http://python.org) with [Django](http://djangoproject.com) to develop a web application that uses a genetic algorithm and machine learning to determine public opinion
+
+#### [Kent State University](http://www.kent.edu) ^(May\ 2013\ &mdash;\ Present)^
+##### Student IT Technician
+
+* Helped provide help desk support for [Kent State's College of Arts and Sciences](http://www.kent.edu/CAS/)
 
 #### [Mindbox Studios](http://mindboxstudios.com) ^(Aug.\ 2012\ &mdash;\ Jan.\ 2013)^
 ##### Web Developer
@@ -28,7 +33,7 @@
 #### [Go Media](http://gomedia.us) ^(May\ 2011\ &mdash;\ Jun.\ 2012)^
 ##### Web Developer
 
-* Used PHP with the Zend Framework to contribute on [Prooflab](https://prooflab.us/), [Go Media's](http://gomedia.us) project management software
+* Used [PHP](http://php.net "PHP: Hypertext Preprocessor") with the [Zend Framework](http://framework.zend.com/) to contribute on [Prooflab](https://prooflab.us/), [Go Media's](http://gomedia.us) project management software
 * Created the [Weapons of Mass Creation Festival 2012](http://2012.wmcfest.com) website using [Wordpress](http://wordpress.org)
 
 #### [Great Lakes Publishing](http://www.glpublishing.com/ME2/Default.asp) ^(Sep.\ 2010\ &mdash;\ May\ 2011)^
