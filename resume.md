@@ -6,23 +6,17 @@
 
 ### Education
 
-#### [Kent State University](http://www.kent.edu) ^(Aug.\ 2010\ &mdash;\ May\ 2014)^
+#### [Kent State University](http://www.kent.edu) ^(Aug.\ 2010\ &mdash;\ May\ 2015)^
 ##### Bachelor's of Science in Computer Science
 
-* Relevant coursework: Computer Science I-II, Discrete Structures, Computer Architecture, Calculus I
-* 2.7 GPA
+* Relevant coursework: Computer Science I-II, Discrete Structures, Computer Architecture, Operating Systems, Speed Programing, Software Engineering
 
 ### Work
 
-#### [Remesh](http://reme.sh) ^(Feb.\ 2013\ &mdash;\ Present)^
-##### Chief Technological Officer
+#### [Kent State University](http://www.kent.edu) ^(May\ 2013\ &mdash;\ Aug.\ 2013)^
+##### Student Desktop Support Technician
 
-* Using [Python](http://python.org) with [Django](http://djangoproject.com) to develop a web application that uses a genetic algorithm and machine learning to determine public opinion
-
-#### [Kent State University](http://www.kent.edu) ^(May\ 2013\ &mdash;\ Present)^
-##### Student IT Technician
-
-* Helped provide help desk support for [Kent State's College of Arts and Sciences](http://www.kent.edu/CAS/)
+* Provided help desk support for [Kent State's College of Arts and Sciences](http://www.kent.edu/CAS/)
 
 #### [Mindbox Studios](http://mindboxstudios.com) ^(Aug.\ 2012\ &mdash;\ Jan.\ 2013)^
 ##### Web Developer
@@ -57,4 +51,4 @@
 ### Interests
 
 * I spend much of my day tweaking my development workflow and reading about the latest coding practices
-* Loves playing tennis and running
+* Loves playing tennis and skateboarding
