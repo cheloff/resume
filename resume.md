@@ -7,11 +7,16 @@
 ### Education
 
 #### [Kent State University](http://www.kent.edu) ^(Aug.\ 2010\ &mdash;\ May\ 2015)^
-##### Bachelor's of Science in Computer Science
+##### Bachelor's of Science in Digital Sciences & Computer Science Minor
 
 * Relevant coursework: Computer Science I-II, Discrete Structures, Computer Architecture, Operating Systems, Speed Programing, Software Engineering
 
 ### Work
+
+#### [PC Surgeons](http://pcsurgeons.net) ^(Oct\ 2013 &mdash;\ Present)^
+##### IT Technican
+
+* Repaired computers in a retail environment
 
 #### [Kent State University](http://www.kent.edu) ^(May\ 2013\ &mdash;\ Aug.\ 2013)^
 ##### Student Desktop Support Technician
