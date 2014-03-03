@@ -13,7 +13,7 @@
 
 ### Work
 
-#### [PC Surgeons](http://pcsurgeons.net) ^(Oct\ 2013 &mdash;\ Present)^
+#### [PC Surgeons](http://pcsurgeons.net) ^(Oct\ 2013\ &mdash;\ Present)^
 ##### IT Technican
 
 * Repaired computers in a retail environment
