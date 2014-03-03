@@ -50,6 +50,7 @@
 ### Activities
 
 * Active member of [HacKSU](http://hacksu.cs.kent.edu/), Kent State's web development community
+* Attended hackathons at [University of Michigan](http://mhacks.org) and [University of Pennsylvania](http://pennapps.com)
 * Developed website for the [Canton Film Festival](http://cantonfilm.com/) using [Wordpress](http://wordpress.org)
 * Earned the rank of [Eagle Scout](https://en.wikipedia.org/wiki/Eagle_Scout) in 2006 and loves to camp
 
